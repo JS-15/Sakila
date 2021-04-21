@@ -1,0 +1,5 @@
+1. SHOW databases;
+USE sakila;
+SHOW tables;
+DESCRIBE actor;
+SELECT first_name, last_name FROM actor;
